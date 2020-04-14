@@ -1,0 +1,12 @@
+#wall 
+{
+	font-family: 'Comic Sans MS', cursive;
+	font-size: 2em;
+	text-align : center;
+	height : 15em;
+	margin: 2em 1em 2em 1em;
+	padding: 2em 1em 2em 1em;
+	background-color : rgb(237,237,237);
+	border-radius: 0.5em 0.5em 0.5em 0.5em;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
